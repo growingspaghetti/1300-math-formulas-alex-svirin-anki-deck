@@ -1,6 +1,6 @@
 # 1300-math-formulas-alex-svirin-anki-deck
 
-It's a repository for an math Anki deck.
+It's a repository for a math Anki deck.
 
 Like [1300 Math Formulas Mega Pack - play.google.com](https://play.google.com/store/apps/details?id=com.studyapps.mathen&hl=en_US&gl=US), it's using [http://www.dxl.co.za/1300mathformulas.pdf](http://www.dxl.co.za/1300mathformulas.pdf) which is not commercially available.
 
